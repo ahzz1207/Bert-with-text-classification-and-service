@@ -15,5 +15,6 @@ This project is a text classification model by bert from google.
 
 5, Use predict methods with params return from get_Sess and setence to get your results!
 
+You can find a example in test.py. Result is like below
 
-    
+![Image text](https://github.com/ahzz1207/Bert-with-text-classification-and-service/blob/master/image.png)
